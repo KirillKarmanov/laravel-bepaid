@@ -13,7 +13,7 @@
   },
   "require": {
     "php": "^8.0",
-    "laravel/framework": "^8|^9",
+    "laravel/framework": "^9.0|^10.0|^11.0|^12.0",
     "begateway/begateway-api-php": "^4.5",
     "myclabs/php-enum": "1.8.*"
   },
